@@ -2,6 +2,14 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
 
+## Features
+
+1. Search for tracks that match a given term
+2. Show matching tracks in a grid
+3. Show artist details when the artist name is clicked
+4. Show album details and show a list of tracks when the album name is clicked
+5. Show song details allow the user to play a preview when the song name is clicked
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
